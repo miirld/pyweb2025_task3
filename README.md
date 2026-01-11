@@ -31,8 +31,9 @@
 
 <img width="1920" height="682" alt="image" src="https://github.com/user-attachments/assets/267928d7-e40b-4923-9f05-2db397fd0fe6" />
 
-7. Работа одного из эндпоинтов (получение информации о конкретном термине по ключевому слову)
+7. Работа одного из эндпоинтов (получение списка всех терминов)
 
-<img width="1433" height="891" alt="image" src="https://github.com/user-attachments/assets/e5d1e443-ad0f-43f3-9e57-e271dbc306af" />
+<img width="1206" height="912" alt="image" src="https://github.com/user-attachments/assets/0af3fc42-c27e-494d-b422-5026a7ab587a" />
+
 
 
