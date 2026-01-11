@@ -20,6 +20,7 @@
 4.Настройка nginx
 
 <img width="2553" height="112" alt="image" src="https://github.com/user-attachments/assets/c414c6e7-9778-40c9-abec-eb13e9c107ce" />
+<img width="2560" height="150" alt="image" src="https://github.com/user-attachments/assets/ad5abe87-bd96-4f16-b362-b37f5b87b78c" />
 <img width="2675" height="393" alt="image" src="https://github.com/user-attachments/assets/d95964b2-51ca-4d1b-8078-385ff59f189c" />
 
 5. Добавление SSL-сертификат для обеспечения HTTPS-доступа
